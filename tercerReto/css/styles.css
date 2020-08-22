@@ -1,0 +1,17 @@
+
+input:focus {
+    color: blue;
+  }
+
+  .margen_1{
+      margin-bottom: 20px;
+  }
+
+  .contenedor{
+      border:2px solid black;
+      
+  }
+
+  .centro_h{
+      align-content: center;
+  }
